@@ -5,6 +5,41 @@
   --output-background: hsl(0, 0%, 98%);
 }
 
+a {
+  color: #448056;
+  outline: none;
+  text-decoration: none;
+}
+
+a:focus {
+  box-shadow: 0 0 0 .1rem rgba(68, 128, 86, .2);
+}
+
+a:focus,
+a:hover,
+a:active,
+a.active {
+  color: #1b6917;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #a0d9a7;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: .5em;
+  margin-top: 0;
+}
+
 body {
     font-size: 1rem;
 }
