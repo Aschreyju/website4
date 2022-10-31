@@ -3,8 +3,6 @@
   --background: hsl(0, 0%, 100%);
   --block-background: hsl(0, 0%, 96%);
   --output-background: hsl(0, 0%, 98%);
-  $primary-color: #1D7384;
-  $secondary-color: #A9DDE7;
 }
 
 body {
@@ -96,6 +94,7 @@ table {
 
 h1 {
     margin-bottom: 3rem;
+    color: #1D7384;
 }
 
 h2 {
