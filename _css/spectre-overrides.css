@@ -161,18 +161,18 @@ p {
     margin-bottom: 1.2rem;
 }
 
-.menu.menu-nav {
+.menu-nav {
   background: transparent;
   box-shadow: none;
 }
 
-.menu .menu-item > a:focus,
-.menu .menu-item > a:hover {
+.menu-item a:focus,
+.menu-item a:hover {
   background: #d0f2ce;
   color: #1b6917;
 }
 
-.menu .menu-item > a {
+.menu-item a {
     font-size: 0.7rem;
     margin-bottom: 0.5rem;
     margin-left: 0.1rem;
