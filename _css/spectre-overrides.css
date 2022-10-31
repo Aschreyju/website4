@@ -161,15 +161,9 @@ p {
     margin-bottom: 1.2rem;
 }
 
-.menu-nav {
+.menu.menu-nav {
   background: transparent;
   box-shadow: none;
-}
-
-.menu-item a:focus,
-.menu-item a:hover {
-  background: #d0f2ce;
-  color: #1b6917;
 }
 
 .menu-item a {
