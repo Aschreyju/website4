@@ -3,11 +3,14 @@
   --background: hsl(0, 0%, 100%);
   --block-background: hsl(0, 0%, 96%);
   --output-background: hsl(0, 0%, 98%);
-  --color-primary: hsl(0, 28%, 50%);
 }
 
 body {
     font-size: 1rem;
+}
+
+.text-primary {
+  color: #A9DDE7;
 }
 
 .docs-brand {
