@@ -1,0 +1,4 @@
+Sitemap: https://aschreyju.github.io/website4/sitemap.xml
+
+User-agent: *
+Disallow:
