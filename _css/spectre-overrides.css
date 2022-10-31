@@ -3,7 +3,10 @@
   --background: hsl(0, 0%, 100%);
   --block-background: hsl(0, 0%, 96%);
   --output-background: hsl(0, 0%, 98%);
+  --primary: #1D7384;
 }
+
+
 
 body {
     font-size: 1rem;
@@ -94,7 +97,6 @@ table {
 
 h1 {
     margin-bottom: 3rem;
-    color: #1D7384;
 }
 
 h2 {
