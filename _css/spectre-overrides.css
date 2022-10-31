@@ -3,10 +3,7 @@
   --background: hsl(0, 0%, 100%);
   --block-background: hsl(0, 0%, 96%);
   --output-background: hsl(0, 0%, 98%);
-}
-
-.theme-colors {
-    primary: #ffd800;
+  --spectre-primary-color: #ffd800;
 }
 
 body {
