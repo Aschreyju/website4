@@ -161,6 +161,17 @@ p {
     margin-bottom: 1.2rem;
 }
 
+.menu.menu-nav {
+  background: transparent;
+  box-shadow: none;
+}
+
+.menu .menu-item > a:focus,
+.menu .menu-item > a:hover {
+  background: #d0f2ce;
+  color: #1b6917;
+}
+
 .menu .menu-item > a {
     font-size: 0.7rem;
     margin-bottom: 0.5rem;
@@ -176,6 +187,8 @@ p {
 .menu-item.active a {
     font-style: italic;
     text-decoration: underline dotted;
+    color: #1b6917;
+    background: #d0f2ce;
 }
 
 .manifest-versions {
