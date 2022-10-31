@@ -191,6 +191,18 @@ p {
     background: #d0f2ce;
 }
 
+.menu .menu-item > a:focus,
+.menu .menu-item > a:hover {
+  background: #d0f2ce;
+  color: #1b6917;
+}
+
+.menu .menu-item > a:active,
+.menu .menu-item > a.active {
+  background: #d0f2ce;
+  color: #1b6917;
+}
+
 .manifest-versions {
     font-style: italic;
     margin-top: 3rem;
